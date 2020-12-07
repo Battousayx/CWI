@@ -1,0 +1,12 @@
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\NotaFiscal.Core.dll.config
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\NotaFiscal.Core.dll
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\NotaFiscal.Core.pdb
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\EntityFramework.dll
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\EntityFramework.xml
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\obj\Debug\NotaFiscal.Core.csprojAssemblyReference.cache
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\obj\Debug\NotaFiscal.Core.csproj.CoreCompileInputs.cache
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\obj\Debug\NotaFiscal.Core.csproj.CopyComplete
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\obj\Debug\NotaFiscal.Core.dll
+C:\Users\22149\Desktop\PROVA CWI\Projeto\NotaFiscal\NotaFiscal.Core\obj\Debug\NotaFiscal.Core.pdb
